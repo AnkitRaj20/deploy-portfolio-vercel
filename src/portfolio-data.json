@@ -1,0 +1,150 @@
+{
+  "templateId": "backend",
+  "primaryColor": "#00d4ff",
+  "accentColor": "#a855f7",
+  "portfolioData": {
+    "personal": {
+      "name": "ANKIT RAJ",
+      "title": "Software Developer",
+      "email": "work.ankitraj177@gmail.com",
+      "location": "Noida",
+      "shortBio": "Innovative Software Developer with over 2 years of experience. Adept at designing scalable microservices architectures, building robust APIs, and integrating real-time functionalities. Proven track record in real-money gaming, financial systems, SaaS platforms, and microservices architecture. Skilled in building scalable, high-performance APIs, wallet systems, payment integrations, and tax-compliance workflows.",
+      "bio": "Innovative Software Developer with over 2 years of experience. Adept at designing scalable microservices architectures, building robust APIs, and integrating real-time functionalities. Proven track record in real-money gaming, financial systems, SaaS platforms, and microservices architecture. Skilled in building scalable, high-performance APIs, wallet systems, payment integrations, and tax-compliance workflows.",
+      "resume": {
+        "url": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1773494522/portfolio/resumes/resume_1300f66d-a93a-4646-942f-aba5565c4587_1773494521.pdf",
+        "fileName": "ankit_resume.pdf",
+        "fileSize": 114360,
+        "uploadedAt": "2026-03-14T13:22:03.349Z",
+        "publicPath": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1773494522/portfolio/resumes/resume_1300f66d-a93a-4646-942f-aba5565c4587_1773494521.pdf"
+      }
+    },
+    "seo": {},
+    "social": {
+      "github": "https://www.github.com/AnkitRaj20"
+    },
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "MongoDB",
+      "mongoose",
+      "Redis",
+      "Bcrypt",
+      "Crypto",
+      "Priority Queue",
+      "React.js",
+      "Payment Gateway Integration",
+      "Sequelize ORM",
+      "Kafka",
+      "Socket.IO",
+      "Firebase",
+      "MySQL",
+      "Express.js",
+      "JWT",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "projects": [
+      {
+        "id": "7b51b98b-bcdd-4d5e-ac98-efbf09eb5c4e",
+        "title": "Project Jambeera – Event Posting & Application Platform",
+        "description": "Developed and managed a microservices-based platform for seamless event posting and application.",
+        "image": "",
+        "tags": [
+          "Node.js",
+          "MySQL",
+          "Sequelize ORM",
+          "Kafka",
+          "Socket.IO"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "16f93ca0-00fa-46d1-a96b-3af4854367ee",
+        "title": "Project EazeAccounts- Financial Management Application",
+        "description": "Engineered the backend for a comprehensive financial management platform featuring bank addition, sales tracking, income & balance sheet management, and detailed reporting. Developed RESTful APIs to handle critical financial data and implemented role-based and organization-based authentication using",
+        "image": "",
+        "tags": [
+          "Node.js",
+          "MySQL",
+          "Sequelize ORM",
+          "JWT"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "ac48166e-00aa-43ec-ae96-c904c2e1bea7",
+        "title": "Project IMS- Inventory Management System",
+        "description": "Developed a Node.js-based IMS for real-time product tracking, stock updates, and categorization. Created RESTful APIs for secure CRUD operations with role-based authentication.",
+        "image": "",
+        "tags": [],
+        "github": "",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "experience": [
+      {
+        "id": "3085e858-2b7f-438c-aeab-6b2e6b6f5432",
+        "company": "Techbeliever",
+        "role": "Software Developer",
+        "period": "May 2025 – August 2025",
+        "description": "Developed and optimized core features of Khiladi Adda Main Branch, Rummy Platform, and Admin Panel. Built the complete backend of Bharat Rummy, including game logic, wallet flows, and compliance workflows. Implemented KYC completion workflows with Aadhaar/PAN updation, ensuring compliance and secure",
+        "current": false
+      },
+      {
+        "id": "7251b3c5-6e85-453f-8346-e453fdc528a7",
+        "company": "Sartia Global",
+        "role": "Node Js Developer",
+        "period": "Jun 2024 – April 2025",
+        "description": "Developed and managed a microservices-based platform for seamless event posting and application. Developed a robust notification system utilizing Kafka for high-throughput data streaming and embedded Firebase for Android push notifications, email, SMS, and a priority queue to manage notification del",
+        "current": false
+      },
+      {
+        "id": "93d39d0a-6f82-41a3-8fe3-dbaed3555c91",
+        "company": "CodeMetrics",
+        "role": "Web Developer",
+        "period": "Dec 2020 - Dec 2021",
+        "description": "Developing streamlined solutions for a school, leading to a remarkable 75% reduction in paperwork and administrative tasks. Utilized technologies including HTML, CSS, JavaScript, PHP, MySQL, React.js, MongoDB, and Node.js",
+        "current": false
+      }
+    ],
+    "education": [
+      {
+        "id": "03f781cf-ca39-42ec-9d57-a56630c5a5d2",
+        "institution": "Galgotia College Of Engineering and Technology",
+        "degree": "Master of Computer Application",
+        "period": "2022-2024",
+        "description": ""
+      },
+      {
+        "id": "798751f6-e1ac-49ad-9162-8266581632cf",
+        "institution": "Sido Kanhu Murmu University, Dumka",
+        "degree": "Bachelor of Computer Applications",
+        "period": "2018-2021",
+        "description": ""
+      }
+    ],
+    "sectionConfig": []
+  },
+  "sectionStyles": {
+    "projects": "cards-modern",
+    "experience": "timeline-split",
+    "education": "timeline-classic"
+  },
+  "sectionOrder": [
+    "projects",
+    "experience",
+    "education"
+  ],
+  "navbarStyle": "nav-glass",
+  "footerStyle": "footer-social",
+  "heroStyle": "hero-default"
+}
